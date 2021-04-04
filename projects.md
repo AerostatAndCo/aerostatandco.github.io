@@ -3,7 +3,7 @@ layout: page
 title: Aerostat & Co
 ---
 
-[website](https://aerostatandco.github.io/)
+[website](https://aerostatandco.github.io/projects.html)
 [github](https://github.com/AerostatAndCo)
 
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
