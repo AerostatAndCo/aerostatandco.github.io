@@ -4,6 +4,8 @@ title: Aerostat & Co
 ---
 
 [website](https://aerostatandco.github.io/)
+[github](https://github.com/AerostatAndCo)
+
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
