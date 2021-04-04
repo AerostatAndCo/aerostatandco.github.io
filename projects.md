@@ -2,6 +2,7 @@
 layout: page
 title: Aerostat & Co
 ---
+## Projects
 
 [website](https://aerostatandco.github.io/projects.html)
 [github](https://github.com/AerostatAndCo)
