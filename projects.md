@@ -7,6 +7,20 @@ title: Aerostat & Co
 [website](https://aerostatandco.github.io/projects.html)
 [github](https://github.com/AerostatAndCo)
 
+* Inna Dominus
+
+* LOCM --> The Law Office of Christopher Moye
+
+* The Binary Lawyer
+
+* The Lotus Project
+
+* Neither Fish Nor Foul (NFNF)
+
+* Quillia
+
+* Aerostat and Co
+
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
